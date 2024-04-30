@@ -1,4 +1,5 @@
-#OS Algorithm Analyzer 
+# OS Algorithm Analyzer 
+
 Problem Statement: In modern computing environments, understanding and selecting the most appropriate operating system (OS) algorithms for efficient resource management is essential. However, users often 
 lack the tools and knowledge to evaluate and compare different OS algorithms effectively. To address this gap, we propose the development of an OS Algorithm Analyzer. This platform will 
 provide users with an interactive environment to simulate various OS algorithms across different components, including process scheduling, memory management, disk scheduling, and deadlock
